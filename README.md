@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+<h1 align="center">Kevin Luke Aaron</h1><br><h3 align="center">Data Science • Analytics Engineering • Applied ML</h3><br><br><p align="center"><br>London, UK  <br>MSc Data Science @ Middlesex University  <br></p><br><br>---<br><br>## 🚀 What I Do<br><br>I build **end-to-end data systems** — from messy raw transactions to structured databases, engineered features, forecasting models, and API-served insights.<br><br>I focus on:<br>- Behavioural transaction analysis<br>- Feature engineering pipelines<br>- Cohort analytics & retention modelling<br>- Probabilistic and regression-based forecasting<br>- Shipping production-ready backend systems<br><br>---<br><br>## 🧠 Current Focus<br><br>- Building financial intelligence pipelines for spend forecasting<br>- Designing relational schemas for behavioural modelling<br>- Exposing ML outputs through FastAPI backends<br>- Improving model interpretability & feature-level explanations<br><br>---<br><br>## 🛠 Technical Stack<br><br>**Languages & Data**<br>- Python<br>- SQL<br>- PostgreSQL<br>- SQLite<br>- Pandas<br>- NumPy<br><br>**Analytics & Modelling**<br>- Regression models<br>- Probabilistic modelling<br>- Cohort analysis<br>- RFM segmentation<br>- KPI design<br><br>**Backend & Tools**<br>- FastAPI<br>- REST APIs<br>- Git<br>- Power BI<br>- Tableau<br><br>---<br><br>## 📊 Featured Projects<br><br>### 🏦 Personal Finance Intelligence System<br>End-to-end ML pipeline built on ~15k transaction records.<br><br>- Normalised raw transactions into relational schema<br>- Engineered behavioural features across 10+ spend categories<br>- Modelled baseline “normal” behaviour across multi-month histories<br>- Served predictions via REST API for dashboard integration<br><br>---<br><br>### 📈 SQL Cohort Analytics Engine<br>Retention, churn & LTV system built using SQL window functions and CTEs.<br><br>- Analysed 10k+ transactions across multi-period cohorts<br>- Implemented RFM segmentation<br>- Generated BI-ready retention & lifetime value tables<br><br>---<br><br>### 🥗 GoHealthy – LLM-Assisted Nutrition App<br>Backend logic for calorie-tracking mobile product.<br><br>- LLM-powered food parsing & interpretation<br>- Validation workflows for calorie & hydration tracking<br>- Notification system for behaviour nudging<br>- Rapid feature iteration in small team environment<br><br>---<br><br>## 🎯 Career Direction<br><br>I’m targeting roles in:<br>- Data Analytics<br>- Analytics Engineering<br>- Applied Machine Learning<br>- FinTech Data Systems<br><br>---<br><br>## 📫 Connect<br><br>- LinkedIn: https://linkedin.com/in/kevinlukeaaron  <br>- GitHub: https://github.com/Kevinlukeaaron  <br><br>---<br><br>> I care more about building reliable data systems than training flashy models.<br>
 
-<!--
-**Kevinlukeaaron/Kevinlukeaaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinlukeaaron) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevinlukeaaron@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kevinlukeaaron&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kevinlukeaaron&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinlukeaaron&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Kevinlukeaaron&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
